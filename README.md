@@ -1,5 +1,5 @@
 # kipi-docs
-Die Dokumentation zum KIPI Projekt. Das Projekt war Teil des RV-Lehrgangs am Bfw Köln im Zeitraum vom 27.03.2024 bis 25.06.2024.
+Die Dokumentation zum KIPI Projekt. Das Projekt war Teil des RV-Lehrgangs am Berufsförderungswerk in Köln im Zeitraum vom 27.03.2024 bis 25.06.2024.
 
 KIPI ist ein Softwareentwicklungsprojekt, dessen Softwareanwendungen von künstlicher Intelligenz unterstützt werden. 
 
