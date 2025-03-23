@@ -13,23 +13,23 @@ Im technischen Detail bedeutet dies, dass die Webanwendungen mehrere Anwendungsp
  
 ## Die Anwendungen
 
-### <img src="images/KIPI_robot_Logo.svg" width="18" /> [KIPI Camera](https://github.com/hascheel/kipi-camera)
+### <img src="images/KIPI_robot_Logo.svg" width="18" /> [KIPI Camera](https://github.com/hardyscheel/kipi-camera)
 KIPI Camera ist eine Fotoaufnahme- und Foto-Analyse-Software, die den Inhalt von Fotos beschreiben kann. Es können ein oder mehrere Personen samt Mimik, Gestik und Gefühlslage beschrieben werden. Sind Gegenstände oder Umgebungen auf dem Foto vorhanden werden diese ebenfalls in die Beschreibung mit angegeben.
 Der Minicomputer "Raspberry Pi“ nimmt mit seiner Kamera ein Foto auf. Anschließend wird dieses Foto mit Hilfe einer KI von OpenAI Vision auf Inhalte geprüft und eine Textbeschreibung des Fotos ausgegeben.
 Eine zusätzliche Herausforderung aus Entwicklersicht ist, die Aufgabenstellung (Prompting) an die KI so zu verfassen, dass alles Relevante auf einem Foto erkannt wird und anschließend in einem sehr kurzen Text wiedergegeben wird.
 
-Die Software ist verfügbar auf GitHub.com: https://github.com/hascheel/kipi-camera
+Die Software ist verfügbar auf GitHub.com: https://github.com/hardyscheel/kipi-camera
 
 <img src="images/screenshot_kipi-camera_1_cut.jpeg" width="30%" /> <img src="images/kipi-camera-clock-screenshot.png" width="35%" /> <img src="images/kipi-camera-video-english-2.gif" width="35%"/>
 
-### <img src="images/KIPI_robot_Logo.svg" width="18" /> [KIPI ChatBot](https://github.com/hascheel/kipi-chatbot)
+### <img src="images/KIPI_robot_Logo.svg" width="18" /> [KIPI ChatBot](https://github.com/hardyscheel/kipi-chatbot)
 KIPI ChatBot ist eine ChatBot-Software für Wissensanfragen und Unterhaltungen mit einer KI. Die Webanwendung macht eine Chat-Unterhaltung in Echtzeit möglich. Der KIPI-ChatBot kann eine längere Unterhaltung führen und behält das Gesprächsthema (den Kontext) stehts bei.
 
-Die Software ist verfügbar auf GitHub.com: https://github.com/hascheel/kipi-chatbot
+Die Software ist verfügbar auf GitHub.com: https://github.com/hardyscheel/kipi-chatbot
 
 <img src="images/kipi-chatbot-screenshot.png" width="35%" />
 
-### <img src="images/KIPI_robot_Logo.svg" width="18" /> [ChatBot Programmier-Tutorial](https://github.com/hascheel/kipi-chatbot-tutorial)
+### <img src="images/KIPI_robot_Logo.svg" width="18" /> [ChatBot Programmier-Tutorial](https://github.com/hardyscheel/kipi-chatbot-tutorial)
 Mit Hilfe dieser Anleitung (Tutorial) kannst du einen ChatBot selbst programmieren. Diese ChatBot-Software erhält KI-Unterstützung durch OpenAI GPT 4o.
 
 Vorrausetzungen:
@@ -38,7 +38,7 @@ Es wird für das Betreiben des eigenen ChatBots ein kostenfreies Entwickler-Benu
 Tipp:
 Es lassen sich mit diesem OpenAI Entwicklerkonto diverse Programme von OpenAI im "Playground“ ohne Programmierkenntnisse nutzen. Neben einem 'unbeschränkten' und 'anpassbaren' ChatGPT Chatbot sind auch diverse Werkzeuge zur Datenanalyse und Datenaufbereitung verfügbar.
 
-Das Tutorial ist verfügbar auf: https://github.com/hascheel/kipi-chatbot-tutorial
+Das Tutorial ist verfügbar auf: https://github.com/hardyscheel/kipi-chatbot-tutorial
 
 <img src="images/kipi-chatbot-tutorial-screenshot.png" width="35%" />
 
